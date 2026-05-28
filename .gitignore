@@ -1,0 +1,20 @@
+# Chaves e Variáveis de Ambiente (CRÍTICO)
+.env
+
+# Ambientes virtuais Python
+venv/
+env/
+.venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Bancos de dados locais (Não subir dados de teste)
+*.db
+gastos.db
+memoria_chat.db
+
+# Pastas de configuração do IDX e Streamlit
+.idx/
+.streamlit/
