@@ -14,9 +14,3 @@ Protótipo desenvolvido para a disciplina de Inteligência Artificial. Este proj
 - **Modelo LLM:** Google Gemini 2.5 Flash
 - **Banco de Dados:** SQLite3
 - **Manipulação de Dados:** Pandas
-
-## ⚙️ Como executar o projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
